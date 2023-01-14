@@ -2,14 +2,14 @@
 
 ## feladat beosztás
 
-### Szabó Bálint
+### Szabo Balint
 - index.html
 - zene1.html
 
-### Bai Máté
+### Bai Mate
 - zene2.html
 - played.html v. about.html
 
-### Kádasi Emese
+### Kadasi Emese
 - zene3.html
 - played.html v. about.html
