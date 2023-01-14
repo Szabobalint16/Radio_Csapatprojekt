@@ -3,13 +3,13 @@
 ## feladat beosztás
 
 ### Szabo Balint
-- index.html
+- index.html/kisegités
 - zene1.html
 
 ### Bai Mate
 - zene2.html
-- played.html v. about.html
+- index.html
 
 ### Kadasi Emese
 - zene3.html
-- played.html v. about.html
+- about.html
