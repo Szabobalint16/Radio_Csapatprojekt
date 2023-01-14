@@ -3,7 +3,7 @@
 ## feladat beosztás
 
 ### Szabo Balint
-- index.html/kisegités
+- index.html/kiszépités
 - zene1.html
 
 ### Bai Mate
