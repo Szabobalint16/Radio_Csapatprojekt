@@ -15,8 +15,7 @@
 - about.html
 
 
--
--
+
 
 ### Alapvető követelmények
 - Egységes design (fejléc, lábléc, menü és az oldal megjelenése minden aloldalon egységes, követi a kiválasztott stílust)
