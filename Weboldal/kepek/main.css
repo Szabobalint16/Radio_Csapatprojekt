@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+}
+
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: darkgrey;
+    padding: 150px;
+    
+    
+    
+    
+    
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);   
+    padding: 30px;
+    font-size: 20px;
+    text-align: center;
+    
+  }
+
+body {
+    background-color: darkgrey;
+}
+audio {
+    height: 50px;
+    
+}
+img {
+  width: 300px;
+  height: 250px;
+  border-radius: 20%;
+}
+.lépegető {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    height: 40px;
+    gap: 2px 5px;
+}
+.lépegető > div {
+  border: 2px solid ;
+  background-color: grey;
+  flex: 1 0 12%;
+  }
+.har {
+  color:white
+}
