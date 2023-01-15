@@ -47,6 +47,6 @@
             
 ### Rólunk oldal (about.html)
       - Tartalmazza
-            * A csapat tagjait
-            * Ki hány százalékban vett részt a megoldásban
-            * Rövid szöveges összefoglalót arról, hogy kinek az egyéni megoldásából mit emeltetek át a közösbe és miért.
+            - A csapat tagjait
+            - Ki hány százalékban vett részt a megoldásban
+            - Rövid szöveges összefoglalót arról, hogy kinek az egyéni megoldásából mit emeltetek át a közösbe és miért.
