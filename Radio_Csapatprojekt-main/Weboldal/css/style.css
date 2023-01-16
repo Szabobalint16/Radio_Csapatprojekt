@@ -57,6 +57,14 @@
   border-width: 5px;
 }
 
+#me{
+  padding-left: 17px;
+}
+
+#me1{
+  margin-left: 250px;
+}
+
 .vonal{
   border-style: solid;
   border-color: black;
