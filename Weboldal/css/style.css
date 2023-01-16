@@ -35,15 +35,16 @@ h3{
     margin-top: 5px;
     font-size: 30px;
 }
+
 table{
-    width:900px;
-    height: 80px;
-    margin-right: 50px;
-    margin-left: 350px ;
+    width:1000px;
+    height: 250px;
+    margin-right: 100px;
+    margin-left: auto;
     border-collapse: collapse;
 }
 th, td {
-    /*border-style: dotted;*/
+   /* border-style: dotted;*/
     height: 50px;
   }
 .kep{
@@ -85,8 +86,9 @@ input[type="submit"]{
     margin-left: 10%;
     height: 10px;
     margin-top: 0px;
-    border-left: 5px solid black;
-    border-right: 5px solid black;    
+    border-left: 5px solid red;
+    border-right: 5px solid red;
+    
 }
 .vc{
     margin-right: 50%;
@@ -95,105 +97,11 @@ input[type="submit"]{
     border-right: 5px solid black;
     border-left: 5px solid black;
 }
-[class~=nav-item] {
+[class=nav-item] {
     font-size: 20px;
   }
 
 input[type="text"] {
     margin-bottom: 10px;
 }
-.hez td{
-    height: 10px;
-}
-.lkep{
-    width: 22%; 
-    border-radius: 20%;
-    margin-left: 200px;
-    margin-right: 0px;
-}
-.szuk{
-    width: 500px;
-  }
-.up{
-    vertical-align: bottom;
-}
-.paros{
-    background-color: lightslategray;
-}
-.paratlan{
-    background-color: gray;
-}
-.lépegető {
-    display: flex;
-    justify-content: center;
-    
-  }
-  
-  .lépegető > div {
-    width: 60px;
-    margin: 0px;
-    text-align: center;
-    line-height: 75px;
-    font-size: 30px;
-  }
- .lépegető a:link {
-    text-decoration:none;
-    color: black;
-  }
-  
-  .lépegető a:visited {
-    color: black;
-  }
-  
-  .lépegető a:hover {
-    color: grey;
-  }
-  
-  .lépegető a:active {
-    color: red;
-  }
-
-  
-  .nav{
-    padding-top: 10px;
-  }
-
-  .nav-item a:link {
-    color: darkblue;
-  }
- 
-  .nav-item a:visited {
-    color: blue;
-  }
-  
-  .nav-item a:hover {
-    color: blue;
-  }
-
-  .nav-item a:active {
-    color: red;
-  }
-  @media screen and (max-width: 1000px) {
-    .main{
-        display: grid;
-        grid-template-columns: auto;
-        column-gap: 20px;
-        text-align: center;
-        row-gap: 8px;
-    }
-    h1{
-        font-size: 20px;
-        text-align: center;
-    }
-    .nav{
-        display: grid;
-        grid-template-columns: auto auto;
-        justify-content:center;
-        margin-right:10px;
-        font-size: 10px;
-    }
-    .mar{
-        padding-bottom: 20px;
-    }
-  }
 
