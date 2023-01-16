@@ -34,6 +34,16 @@
 
 }*/
 
+.j{
+  padding-left: 20px;
+  height: 20px;
+}
+
+.j3{
+  height: 20px;
+}
+
+
 
 .nav{
     display: grid;
@@ -67,8 +77,9 @@ table{
     border-collapse: collapse;
 }
 th, td {
-   /* border-style: dotted;*/
+    /*border-style: dotted;*/
     height: 50px;
+
   }
 .kep{
     width: 30%; 
