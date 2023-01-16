@@ -110,8 +110,8 @@ input[type="submit"]{
     margin-right: 50%;
     height: 5px;
     margin-top: 0px;
-    border-right: 5px solid black;
-    border-left: 5px solid black;
+    border-right: 5px solid red;
+    border-left: 5px solid red;
 }
 [class=nav-item] {
     font-size: 20px;
