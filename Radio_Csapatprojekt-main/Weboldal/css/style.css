@@ -39,11 +39,39 @@
   height: 20px;
 }
 
+.j2{
+  height: 120px;
+  width: 150px;
+}
+
 .j3{
   height: 20px;
 }
 
+.g{
+  width: 800px;
+  margin-left: 25%;
+  margin-top: -14.2%;
+  border-style:  double;
+  border-color: black;
+  border-width: 5px;
+}
 
+.vonal{
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+}
+
+.g1{
+  width: 15%;
+  text-align: center;
+}
+
+.g2{
+  width:20% ;
+  text-align: center;
+}
 
 .nav{
     display: grid;
