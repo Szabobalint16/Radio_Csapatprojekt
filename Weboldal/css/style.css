@@ -1,3 +1,8 @@
+.starboy{
+  height: 900px;
+  background-color: white; 
+  background-image: linear-gradient(yellow, red, black );
+}
 .enemy1{
   height: 900px;
   background-color: white; 
