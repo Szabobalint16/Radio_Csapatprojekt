@@ -1,8 +1,15 @@
 .starboy{
   height: 900px;
   background-color: white; 
-  background-image: linear-gradient(yellow, red, black );
+  background-image: linear-gradient(rgb(232, 201, 145), rgb(239, 173, 32));
 }
+
+.human{
+  height: 900px;
+  background-color: white; 
+  background-image: linear-gradient( rgb(239, 101, 32),rgb(238, 180, 135));
+}
+
 .enemy1{
   height: 900px;
   background-color: white; 
@@ -12,7 +19,7 @@
 .egy {
   height: 2310px;
   background-color: white; 
-  background-image: linear-gradient(purple, rgb(255, 255, 255));
+  background-image: linear-gradient(purple, white);
 
 }
 .lejatsz{
@@ -169,7 +176,7 @@ input[type="text"] {
 }
 
 .lépegető a:active {
-  color: red;
+  color: white;
 }
 
 
@@ -183,11 +190,11 @@ input[type="text"] {
 }
 
 .nav-item a:hover {
-  color: blue;
+  color: plum;
 }
 
 .nav-item a:active {
-  color: red;
+  color: white;
 }
 @media screen and (max-width: 1000px) {
   .main{
