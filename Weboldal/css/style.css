@@ -1,3 +1,9 @@
+.enemy1{
+  height: 900px;
+  background-color: white; 
+  background-image: linear-gradient(pink, cyan);
+
+}
 .egy {
   height: 2300px;
   background-color: white; 
@@ -206,7 +212,7 @@ input[type="text"] {
     border-collapse: collapse;
 }
 th, td {
-   /border-style: dotted;/
+   /*border-style: dotted;*/
     height: 50px;
   }
   .kep{
@@ -214,4 +220,4 @@ th, td {
     border-radius: 20%;
     margin-left: 80px;
 }
-
+}
