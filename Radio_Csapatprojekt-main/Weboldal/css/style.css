@@ -12,7 +12,7 @@
 .egy {
   height: 2300px;
   background-color: white; 
-  background-image: linear-gradient(purple, white);
+  background-image: linear-gradient(purple, rgb(255, 255, 255));
 
 }
 .lejatsz{
