@@ -1,1 +1,295 @@
-sziA
+.starboy{
+  height: 900px;
+  background-color: white; 
+  background-image: linear-gradient(rgb(232, 201, 145), rgb(239, 173, 32));
+}
+
+.human{
+  height: 900px;
+  background-color: white; 
+  background-image: linear-gradient( rgb(239, 101, 32),rgb(238, 180, 135));
+}
+
+.enemy1{
+  height: 900px;
+  background-color: white; 
+  background-image: linear-gradient(pink, cyan);
+
+}
+.egy {
+  height: 2310px;
+  background-color: white; 
+  background-image: linear-gradient(purple, white);
+
+}
+.lejatsz{
+  height: 2000px;
+  background-color: white; 
+  background-image: linear-gradient(purple, white);
+}
+/*body {
+  height: 2100px;
+  background-color: white; 
+  background-image: linear-gradient(purple, white);
+
+}*/
+
+.j{
+  padding-left: 20px;
+  height: 20px;
+}
+
+.j2{
+  height: 120px;
+  width: 150px;
+}
+
+.j3{
+  height: 20px;
+}
+
+.g{
+  width: 800px;
+  margin-left: 25%;
+  margin-top: -14.2%;
+  border-style:  double;
+  border-color: black;
+  border-width: 5px;
+}
+
+#me{
+  padding-left: 17px;
+}
+
+#me1{
+  margin-left: 250px;
+}
+
+.vonal{
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+}
+
+.g1{
+  width: 15%;
+  text-align: center;
+}
+
+.g2{
+  width:20% ;
+  text-align: center;
+}
+
+
+form{
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin-bottom: 5px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: "Lucida Handwriting";
+    margin-bottom: 5px;
+}
+h3{
+    text-align: center;
+    margin-top: 5px;
+    font-size: 30px;
+}
+
+table{
+    width:1000px;
+    height: 250px;
+    margin-right: 30px;
+    margin-left: 100px;
+    border-collapse: collapse;
+}
+th, td {
+    /*border-style: dotted;*/
+    height: 50px;
+
+  }
+.kep{
+    width: 30%; 
+    border-radius: 20%;
+    margin-left: 220px;
+    height: 190px;
+}
+input[type="submit"]{
+    width: 150px;
+    height: 40px;
+}
+.alma{
+    display: grid;
+  grid-template-columns: auto 400px ;
+/* gap: 10px;
+  background-color: #2196F3;
+  padding: 10px;*/
+}
+/*.alma > .item {
+    background-color: rgba(255, 255, 255, 01);
+    
+}*/
+
+.lent{
+    padding-right: 20PX;
+}
+.cet{
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+[title~=Zene] {
+    font-weight: bold;
+  }
+.v{
+    margin-left: 10%;
+    height: 10px;
+    margin-top: 0px;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    
+}
+.vc{
+    margin-right: 50%;
+    height: 5px;
+    margin-top: 0px;
+    border-right: 5px solid black;
+    border-left: 5px solid black;
+}
+
+
+input[type="text"] {
+    margin-bottom: 10px;
+}
+.hez td{
+  height: 10px;
+}
+.lkep{
+  width: 22%; 
+  border-radius: 20%;
+  margin-left: 200px;
+  margin-right: 0px;
+  height: 100px;
+}
+.szuk{
+  width: 500px;
+}
+.up{
+  vertical-align: bottom;
+}
+.paros{
+  background-color: lightgrey;
+}
+.paratlan{
+  background-color: gray;
+}
+.lépegető {
+  display: flex;
+  justify-content: center;
+
+}
+
+.lépegető > div {
+  width: 60px;
+  margin: 0px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+.lépegető a:link {
+  text-decoration:none;
+  color: black;
+}
+
+.lépegető a:visited {
+  color: black;
+}
+
+.lépegető a:hover {
+  color: grey;
+}
+
+.lépegető a:active {
+  color: white;
+}
+
+.nav{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content:center;
+}
+
+.nav{
+  padding-top: 10px;
+}
+.nav-item{
+  font-size: 20px;
+}
+
+.nav-item a:visited {
+  color: darkgrey;
+
+}
+
+.nav-item a:hover {
+  color: plum;
+}
+
+.nav-item a:active {
+  color: white;
+}
+@media screen and (max-width: 1000px) {
+  .main{
+      display: grid;
+      grid-template-columns: auto;
+      column-gap: 20px;
+      text-align: center;
+      row-gap: 8px;
+  }
+  h1{
+      font-size: 25px;
+      text-align: center;
+  }
+  .nav{
+      display: grid;
+      grid-template-columns: auto auto;
+      justify-content:center;
+  }
+  .mar{
+      padding-bottom: 20px;
+  }
+.navk{
+    font-size: 15px;
+  }
+  table{
+    width:600px;
+    height: 80px;
+    margin-right: 0px;
+    margin-left: auto;
+    border-collapse: collapse;
+}
+th, td {
+   /*border-style: dotted;*/
+    height: 50px;
+  }
+  .kep{
+    width: 45%; 
+    border-radius: 20%;
+    margin-left: 20%;
+}
+.nav-item{
+  font-size: 13.5px;
+}
+img{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+}
